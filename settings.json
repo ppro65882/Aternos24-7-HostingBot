@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "100days-epwR.aternos.me",
+    "port": 60753,
     "version": "",
     "try-creative": false
   },
